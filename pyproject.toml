@@ -1,7 +1,6 @@
 [project]
-name = "mk97"
+name = "collegepredictor"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.11"
-dependencies = []
+description = "College Predictor Streamlit App"
+authors = ["Sachin"]
+package-mode = false
