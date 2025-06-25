@@ -1,0 +1,98 @@
+College Name,Branch,Category,Percentile,
+Sardar Patel Institute of Technology (SPIT),Computer Engineering,General,99.50,
+Sardar Patel Institute of Technology (SPIT),Computer Engineering,OBC,99.40,
+Sardar Patel Institute of Technology (SPIT),Computer Engineering,SC,97.00,
+Sardar Patel Institute of Technology (SPIT),Computer Engineering,ST,94.50,
+Sardar Patel Institute of Technology (SPIT),Computer Engineering,EWS,99.45,
+Sardar Patel Institute of Technology (SPIT),Information Technology,General,99.40,
+Sardar Patel Institute of Technology (SPIT),Information Technology,OBC,99.30,
+Sardar Patel Institute of Technology (SPIT),Information Technology,SC,96.50,
+Sardar Patel Institute of Technology (SPIT),Information Technology,ST,94.00,
+Sardar Patel Institute of Technology (SPIT),Information Technology,EWS,99.35,
+Sardar Patel Institute of Technology (SPIT),Electronics & Telecommunication Eng.,General,99.20,
+Sardar Patel Institute of Technology (SPIT),Electronics & Telecommunication Eng.,OBC,99.10,
+Sardar Patel Institute of Technology (SPIT),Electronics & Telecommunication Eng.,SC,96.00,
+Sardar Patel Institute of Technology (SPIT),Electronics & Telecommunication Eng.,ST,93.50,
+Sardar Patel Institute of Technology (SPIT),Electronics & Telecommunication Eng.,EWS,99.15,
+Veermata Jijabai Technological Institute (VJTI),Computer Engineering,General,99.96,
+Veermata Jijabai Technological Institute (VJTI),Computer Engineering,OBC,99.85,
+Veermata Jijabai Technological Institute (VJTI),Computer Engineering,SC,98.50,
+Veermata Jijabai Technological Institute (VJTI),Computer Engineering,ST,96.20,
+Veermata Jijabai Technological Institute (VJTI),Computer Engineering,EWS,99.88,
+Veermata Jijabai Technological Institute (VJTI),Information Technology,General,99.92,
+Veermata Jijabai Technological Institute (VJTI),Information Technology,OBC,99.78,
+Veermata Jijabai Technological Institute (VJTI),Information Technology,SC,97.80,
+Veermata Jijabai Technological Institute (VJTI),Information Technology,ST,95.50,
+Veermata Jijabai Technological Institute (VJTI),Information Technology,EWS,99.82,
+Veermata Jijabai Technological Institute (VJTI),Electronics & Telecommunication Eng.,General,99.69,
+Veermata Jijabai Technological Institute (VJTI),Electronics & Telecommunication Eng.,OBC,99.60,
+Veermata Jijabai Technological Institute (VJTI),Electronics & Telecommunication Eng.,SC,96.50,
+Veermata Jijabai Technological Institute (VJTI),Electronics & Telecommunication Eng.,ST,94.20,
+Veermata Jijabai Technological Institute (VJTI),Electronics & Telecommunication Eng.,EWS,99.65,
+Veermata Jijabai Technological Institute (VJTI),Mechanical Engineering,General,98.40,
+Veermata Jijabai Technological Institute (VJTI),Mechanical Engineering,OBC,98.10,
+Veermata Jijabai Technological Institute (VJTI),Mechanical Engineering,SC,95.80,
+Veermata Jijabai Technological Institute (VJTI),Mechanical Engineering,ST,92.50,
+Veermata Jijabai Technological Institute (VJTI),Mechanical Engineering,EWS,98.30,
+Veermata Jijabai Technological Institute (VJTI),Civil Engineering,General,97.10,
+Veermata Jijabai Technological Institute (VJTI),Civil Engineering,OBC,96.70,
+Veermata Jijabai Technological Institute (VJTI),Civil Engineering,SC,93.50,
+Veermata Jijabai Technological Institute (VJTI),Civil Engineering,ST,90.20,
+Veermata Jijabai Technological Institute (VJTI),Civil Engineering,EWS,96.90,
+Dwarkadas J. Sanghvi College of Engineering (DJSCE),Computer Engineering,General,99.52,
+Dwarkadas J. Sanghvi College of Engineering (DJSCE),Information Technology,General,99.21,
+Dwarkadas J. Sanghvi College of Engineering (DJSCE),Artificial Intelligence and Data Science,General,99.04,
+Dwarkadas J. Sanghvi College of Engineering (DJSCE),Electronics & Telecommunication Eng,General,98.33,
+Dwarkadas J. Sanghvi College of Engineering (DJSCE),Mechanical Engineering,General,96.88,
+Thadomal Shahani Engineering College (TSEC),Computer Engineering,General,98.79,
+Thadomal Shahani Engineering College (TSEC),Information Technology,General,98.66,
+Thadomal Shahani Engineering College (TSEC),Artificial Intelligence and Data Science,General,98.56,
+Thadomal Shahani Engineering College (TSEC),Electronics & Telecommunication Eng,General,97.93,
+Thadomal Shahani Engineering College (TSEC),Chemical Engineering,General,97.01,
+Fr. Conceicao Rodrigues College of Engineering (CRCE),Computer Engineering,General,97.84,
+Fr. Conceicao Rodrigues College of Engineering (CRCE),Artificial Intelligence and Data Science,General,97.68,
+Fr. Conceicao Rodrigues College of Engineering (CRCE),Electronics and Computer Engineering,General,96.67,
+Fr. Conceicao Rodrigues College of Engineering (CRCE),Mechanical Engineering,General,94.39,
+VESIT,Computer Engineering, General,98.69,
+VESIT,Information Technology,General,98.21,
+VESIT,Artificial Intelligence and Data Science,General,97.97,
+VESIT,Electronics & Telecommunication Eng,General,97.89,
+Vidyalankar Institute of Technology (VIT),Computer Engineering,General,96
+Vidyalankar Institute of Technology (VIT),Computer Engineering,OBC,96
+Vidyalankar Institute of Technology (VIT),Computer Engineering,SC,93
+Vidyalankar Institute of Technology (VIT),Information Technology,General,95
+Vidyalankar Institute of Technology (VIT),Information Technology,SC,91
+Vidyalankar Institute of Technology (VIT),Information Technology,ST,88
+Vidyalankar Institute of Technology (VIT),Computer Science & Electronic Engineering,General,92
+Vidyalankar Institute of Technology (VIT),Computer Science & Electronic Engineering,OBC,89
+Vidyalankar Institute of Technology (VIT),Computer Engineering,General,96
+Vidyalankar Institute of Technology (VIT),Computer Engineering,OBC,96
+Vidyalankar Institute of Technology (VIT),Computer Engineering,SC,93
+Vidyalankar Institute of Technology (VIT),Information Technology,General,95
+Vidyalankar Institute of Technology (VIT),Information Technology,SC,91
+Vidyalankar Institute of Technology (VIT),Information Technology,ST,88
+Vidyalankar Institute of Technology (VIT),Computer Science & Electronic Engineering,General,92
+Vidyalankar Institute of Technology (VIT),Computer Science & Electronic Engineering,OBC,89
+Xavier Institute of Engineering,Computer Engineering,General,95.66
+Xavier Institute of Engineering,Information Technology,General,95.39
+Xavier Institute of Engineering,IOT & Cyber Security Including Blockchain,General,94.6
+Xavier Institute of Engineering,Electronics & Telecommunication Eng,General,92.54
+St. Francis Institute of Technology (SFIT),Computer Engineering,General,95.85
+St. Francis Institute of Technology (SFIT),Information Technology,General,95.3
+St. Francis Institute of Technology (SFIT),Electronics & Telecommunication Eng,General,91.32
+St. Francis Institute of Technology (SFIT),Electrical Engineering,General,86.86
+St. Francis Institute of Technology (SFIT),Mechanical Engineering,General,86.2
+Rajiv Gandhi Institute of Technology (RGIT),Computer Engineering,General,95.72
+Rajiv Gandhi Institute of Technology (RGIT),Information Technology,General,94.24
+Rajiv Gandhi Institute of Technology (RGIT),Artificial Intelligence and Data Science,General,93.75
+Rajiv Gandhi Institute of Technology (RGIT),Electronics & Telecommunication Eng,General,89.33
+Rajiv Gandhi Institute of Technology (RGIT),Mechanical Engineering,General,84.52
+Don Bosco Institute of Technology,Computer Engineering,General,95.9
+Don Bosco Institute of Technology,Information Technology,General,95.58
+Don Bosco Institute of Technology,Electronics & Telecommunication Eng,General,88.5
+Don Bosco Institute of Technology,Mechanical Engineering,General,69.28
+
+
+
+,,,,
+,,,,
